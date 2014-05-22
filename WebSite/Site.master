@@ -5,11 +5,12 @@
 <head runat="server">
     <meta charset="utf-8" />
     <title><%: Page.MetaDescription %> - Master's Computer Science Portfolio</title>
-    <asp:PlaceHolder runat="server">
+<%--     <asp:PlaceHolder runat="server">
         <%: Scripts.Render("~/bundles/modernizr") %>
-    </asp:PlaceHolder>
+    </asp:PlaceHolder>--%>
     <webopt:BundleReference runat="server" Path="~/Content/css" />
     <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+
     <meta name="viewport" content="width=device-width" />
     <asp:ContentPlaceHolder runat="server" ID="HeadContent" />
 </head>
@@ -63,28 +64,28 @@
                 <article>
                     <asp:ContentPlaceHolder runat="server" ID="MainContent" />
                 </article>
-                <aside id="aside">                    
+                <aside id="aside">
                     <asp:ContentPlaceHolder runat="server" ID="AsideContent" />
                     <h1><a href="Projects.aspx">Projects</a></h1>
                     <a href="ApocalypseDefense.aspx">Apocalypse Defense</a>
                     <p>
                         Apocalypse Defense: a mobile zombie game written in Java for the Android 2.3 Operating System.
                     </p>
-                    <a href="HootWolfBox.aspx">Hoot (Wolf Box)</a>
-                    <p>
-                        Hoot, aka The Wolf Box: a hardware / software solution for broadcasting and recording sounds in adverse climates.
-                    </p>
                     <a href="Sandpile.aspx">Bak-Tang-Wiesenfeld Model for Displaying Self-Organized Criticality</a>
                     <p>
                         Bak-Tang-Wiesenfeld Model: otherwise known as the Abelian Sandpile Model, written in Python using the Matplotlib module.
                     </p>
+                    <a href="Earthquakes.aspx">Earthquakes around the World</a>
+                    <p>
+                        Earthquakes: a Python script to plot earthquakes that have occurred in the world, using the Matplotlib Basemap module.
+                    </p>
+                    <a href="HootWolfBox.aspx">Hoot (Wolf Box)</a>
+                    <p>
+                        Hoot, aka The Wolf Box: a hardware / software solution for broadcasting and recording sounds in adverse climates.
+                    </p>
                     <a href="Particles.aspx">Particle Simulator</a>
                     <p>
                         Particle Simulator: a particle physics simulator written in Python using OpenGL.
-                    </p>
-                    <a href="Earthquakes.aspx">Earthquakes in the World</a>
-                    <p>
-                        Earthquakes: a Python script to plot earthquakes that have occurred in the world, using the Matplotlib Basemap module.
                     </p>
                 </aside>
             </section>

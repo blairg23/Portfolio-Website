@@ -85,6 +85,9 @@ h4 {
 
 h5, h6 {
     font-size: 1em;
+    text-decoration: none;
+    font-style: italic;
+    font-weight: 100;
 }
 
     h5 a:link, h5 a:visited, h5 a:active {
@@ -136,11 +139,13 @@ footer {
     font-size: 4.2em;
     margin: 0;
 }
+
     .site-title a:hover {
         /*background-color: #5e001d;*/
         color: #5e001d;
     }
-    .site-title a, .site-title a:active {        
+
+    .site-title a, .site-title a:active {
         background: none;
         color: #333;
         outline: none;
@@ -194,7 +199,7 @@ ul#menu {
     font-weight: 600;
     margin: 0 0 5px;
     padding: 0;
-    text-align: right;    
+    text-align: right;
 }
 
     ul#menu li {
@@ -325,11 +330,13 @@ aside {
     float: right;
     width: 25%;
 }
+
     aside a {
         text-decoration: none;
-        font-size:2.0em;
+        font-size: 2.0em;
         color: #e80c4d; /*change this!*/
     }
+
     aside ul {
         list-style: none;
         padding: 0;
@@ -339,17 +346,21 @@ aside {
             background: url("../Images/bullet.png") no-repeat 0 50%;
             padding: 2px 0 2px 20px;
         }
+
     aside a:hover {
         background-color: #5e001d;
         color: #e2e2e2;
     }
-    aside h1 a:hover {        
-        background-color:inherit;
+
+    aside h1 a:hover {
+        background-color: inherit;
         color: #5e001d;
     }
+
     aside p {
         font-size: 1em;
     }
+
 .label {
     font-weight: 700;
 }
