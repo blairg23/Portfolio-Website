@@ -4,12 +4,12 @@
     <link href="http://colorpowered.com/colorbox/core/example1/colorbox.css" rel="stylesheet" type="text/css" />
     <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.5.js" type="text/javascript"></script>
     <script src="http://colorpowered.com/colorbox/core/colorbox/jquery.colorbox.js" type="text/javascript"></script>
-    <script src= '<%# ResolveUrl("Scripts/jquery-1.9.1.min.js")%>'   ></script> 
+    <script src='<%# ResolveUrl("Scripts/jquery-1.9.1.min.js")%>'></script>
     <script type="text/javascript">
         $(document).ready(function () {
             $("a[rel='image']").colorbox();
         });
-    </script>    
+    </script>
 </asp:Content>
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="Server">
     <hgroup class="title">
@@ -34,12 +34,31 @@
         and milestones in both classes to design, refine, and build the application.
     </p>
 
+    <p>
+        In Human-Computer Interaction, we were required to reach a set of milestones within a certain time period. These milestones included desiging the user interface, 
+        creating usability and functional requirements, coming up with use cases, creating 3 levels of prototypes (low, medium, and high fidelity), user testing, and regular critiques
+        by our peers in the classroom.
+
+     
+    </p>
+    
+       <ul>
+
+            <li>
+                <h6>Milestone 1: Functional and usability requirements</h6>
+                For this project, we were required to create a report outlining our functional and usability 
+                requirements, possible use cases, who our users might be, and what sketches we would include in our low-fidelity prototype (<a href="docs/ApocalypseDefense/HCI/Project1/Project1.pdf" rel="popout" class="incontent">my report</a>).
+            </li>
+            <li>
+                <h6>Milestone 2: Low-Fidelity (lo-fi) prototyping.</h6>
+            </li>
+        </ul>
     <h2>What did you learn from the project?</h2>
 
     <p>
-        <a rel="image" href="http://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg">elephant</a>
-        <a rel="image" href="http://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg">elephant</a>
-        <a rel="image" href="http://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg">elephant</a>
+        <a rel="popout" href="http://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg">elephant</a>
+        <a rel="popout" href="http://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg">elephant</a>
+        <a rel="popout" href="http://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg">elephant</a>
     </p>
 
     <h2>What are you most proud of?</h2>
