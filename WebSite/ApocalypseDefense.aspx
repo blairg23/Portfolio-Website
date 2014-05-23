@@ -3,11 +3,10 @@
 <asp:Content ID="HeadContent" ContentPlaceHolderID="HeadContent" runat="server">
     <link href="http://colorpowered.com/colorbox/core/example1/colorbox.css" rel="stylesheet" type="text/css" />
     <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.5.js" type="text/javascript"></script>
-    <script src="http://colorpowered.com/colorbox/core/colorbox/jquery.colorbox.js" type="text/javascript"></script>
-    <script src='<%# ResolveUrl("Scripts/jquery-1.9.1.min.js")%>'></script>
+    <script src="http://colorpowered.com/colorbox/core/colorbox/jquery.colorbox.js" type="text/javascript"></script>    
     <script type="text/javascript">
         $(document).ready(function () {
-            $("a[rel='image']").colorbox();
+            $("a[rel='cboxelement']").colorbox();
         });
     </script>
 </asp:Content>
@@ -47,18 +46,19 @@
             <li>
                 <h6>Milestone 1: Functional and usability requirements</h6>
                 For this project, we were required to create a report outlining our functional and usability 
-                requirements, possible use cases, who our users might be, and what sketches we would include in our low-fidelity prototype (<a href="docs/ApocalypseDefense/HCI/Project1/Project1.pdf" rel="popout" class="incontent">my report</a>).
+                requirements, possible use cases, who our users might be, and what sketches we would include in our low-fidelity prototype (<a href="docs/ApocalypseDefense/HCI/Project1/Project1.pdf" rel="cboxelement" class="incontent">my report</a>).
             </li>
             <li>
                 <h6>Milestone 2: Low-Fidelity (lo-fi) prototyping.</h6>
+                For this milestone, we were required to identify users and the functionality most useful to them. 
             </li>
         </ul>
     <h2>What did you learn from the project?</h2>
 
     <p>
-        <a rel="popout" href="http://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg">elephant</a>
-        <a rel="popout" href="http://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg">elephant</a>
-        <a rel="popout" href="http://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg">elephant</a>
+        <a rel="cboxelement" href="http://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg">elephant</a>
+        <a rel="cboxelement" href="http://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg">elephant</a>
+        <a rel="cboxelement" href="http://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg">elephant</a>
     </p>
 
     <h2>What are you most proud of?</h2>
