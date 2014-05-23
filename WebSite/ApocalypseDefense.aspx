@@ -44,14 +44,39 @@
        <ul>
 
             <li>
-                <h6>Milestone 1: Functional and usability requirements</h6>
-                For this project, we were required to create a report outlining our functional and usability 
-                requirements, possible use cases, who our users might be, and what sketches we would include in our low-fidelity prototype (<a href="docs/ApocalypseDefense/HCI/Project1/Project1.pdf" rel="cboxelement" class="incontent">my report</a>).
+                <h6><a href="docs/ApocalypseDefense/HCI/Project1/project1.pdf">Milestone 1</a>: Functional and usability requirements</h6>
+                For this milestone, we were required to create a report outlining our functional and usability 
+                requirements, possible use cases, who our users might be, and what sketches we would include in our low-fidelity prototype (<a href="docs/ApocalypseDefense/HCI/Project1/Project1Writeup.pdf" rel="cboxelement" class="incontent">my report <img src="Images/adobe-pdf-logo.png" class="minilogo" /></a>).
             </li>
             <li>
-                <h6>Milestone 2: Low-Fidelity (lo-fi) prototyping.</h6>
-                For this milestone, we were required to identify users and the functionality most useful to them. 
+                <h6><a href="docs/ApocalypseDefense/HCI/Project2/project2.pdf">Milestone 2</a>: Preliminary Design, Low-Fidelity (lo-fi) prototyping.</h6>
+                For this milestone, we were required to identify users, how they would want to experience the interface, as well as what functionality would be most beneficial to them to play the game and get enjoyment out of it. Each member of the team was
+                supposed to draw up a crude preliminary sketch of each screen set out from the original functionality report in milestone 1. We then accepted design critique from our peers, as well as critiquing their designs as well. Our final deliverable was the 
+                sketches, as well as our report of the feedback received during the design critique. This was an individual assignment; my sketches covered mockups for the title screen, game options, splash screen, mission select, saved games, custom map editor, upgrade
+                options, in-game UI, store, and scoreboard. I separated the 10 screens into 3 sets, but the images didn't come out as well as I had liked, so I enhanced them using a high pass filter and hard light blending options in photoshop. I wrote up a <a href="docs/ApocalypseDefense/HCI/Project2/Project2DesignSketches.pdf">document illustrating
+                the differences <img src="Images/adobe-pdf-logo.png" class="minilogo" /></a>. Our <a href="docs/ApocalypseDefense/HCI/Project2/Project2Writeup.pdf">group write-up <img src="Images/adobe-pdf-logo.png" class="minilogo" /></a>was done as a collective effort through Google Drive (at that time, Google Docs).
+                Pat, Nada, and I were able to edit the documents remotely, so we saved time and energy by not having to schedule face-to-face meetups.
+                
             </li>
+           <li>
+               <h6><a href="docs/ApocalypseDefense/HCI/Project3/project3.pdf">Milestone 3</a>: Iterative Design, Medium-Fidelity prototyping.</h6>
+               For this milestone, we were required to incorporate or address feedback given to us from our first design critique, combine our individual low-fidelity design sketches into a design that the entire group decides. Basically, we brought in what we considered to be the best of all the preliminary sketches to create a system design that either
+               compromises on a certain feature or compliments an existing feature to create our medium-fidelity prototype. We then set out to evaluate our system without users. We achieved this by performing a cognitive walkthrough and a heuristic evaluation on our new prototype. A cognitive walkthrough is where we list out a set of tasks that should be performed
+               by the user to complete all the features that we want to test. We then walk through these tasks and report whether each task makes sense and is simple to complete. A heuristic evaluation is similar, except we ask ourselves a few questions: "Does the program use simple and natural dialog? Does it speak the user's language? Does it minimize user memory
+               load? Is the user interface consistent? Does it provide feedback? Are there clearly marked exits? Are there shortcuts for tasks? Are there good error messages? How do you prevent errors in your program?". If you can trust yourself to be unbiased, you can help save yourself some time with user testing by performing this heuristic evaluation and hopefully
+               fixing potential future bugs. <a href="docs/ApocalypseDefense/HCI/Project3/Project3Writeup.pdf">My individual report <img src="Images/adobe-pdf-logo.png" class="minilogo" /></a>, our group's presentation on the cognitive walkthrough and heuristic evaluation (<a href="docs/ApocalypseDefense/HCI/Project3/Presentations/Presentation.pdf">.pdf <img src="Images/adobe-pdf-logo.png" class="minilogo" /></a>, <a href="docs/ApocalypseDefense/HCI/Project3/Presentations/Presentation.pptx">.pptx <img src="Images/powerpoint.png" class="minilogo" /></a>),
+               and our collaborative medium-fidelity prototype (<a href="docs/ApocalypseDefense/HCI/Project3/UI_Walkthrough_Post_Changes.pdf">.pdf <img src="Images/adobe-pdf-logo.png" class="minilogo" /></a>, <a href="docs/ApocalypseDefense/HCI/Project3/UI_Walkthrough_Post_Changes.pptx">.pptx <img src="Images/powerpoint.png" class="minilogo" /></a>)
+           </li>
+           <li>
+               <h6>Milestone 4: User Testing.</h6>
+               For this milestone, we were finally ready to test our product with real users from among a random selection of our friends. The users were told to try to perform a set of tasks without any help from Pat, Nada, or I. We recorded their behavior via head-mounted GoPro cameras and noted any actions the user took, whether beneficial or detrimental. We noted whether the user interface seemed
+               intuitive to the user and what comments the user made as they were performing their set of tasks. At the end, we asked them to write down any comments or suggestions for how to make the game better and more fun. <!-- STOPPED HERE, DON'T FORGET TO ADD VIDEOS AND REPORTS FOR PROJECT 4 AND 5-->
+           </li>
+           <li>
+               <h6>Milestone 5: Overview of project progression.</h6>
+               For this milestone, we were required to create a presentation of our project progression. Pat, Nada, and I collaborated to created a presentation via <a href="http://prezi.com">Prezi</a>. <a href="http://prezi.com/snffbxuvyy3b/?utm_campaign=share&utm_medium=copy">This was our final product <img src="Images/prezi.png" class="minilogo" /></a>. Once
+               again, we were able to complete the presentation soley online, although we did have a personal meeting to discuss any last minute changes and fine polishing. This was good also to make sure we knew what our parts were for the final presentation.
+           </li>
         </ul>
     <h2>What did you learn from the project?</h2>
 

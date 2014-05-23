@@ -327,6 +327,10 @@ article {
     width: 70%;
 }
 
+.minilogo {
+    height:1em;
+    width:1em;
+}
 aside {
     font-family: Rockwell, 'Courier New', monospace;
     float: right;
