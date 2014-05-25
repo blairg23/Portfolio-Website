@@ -61,21 +61,21 @@
            </li>
            <li>
                <h6>Milestone 4: User Testing.</h6>
-               For this milestone, we were finally ready to test our product with real users from among a random selection of our friends. The users were told to try to perform a set of tasks without any help from Pat, Nada, or I. We recorded their behavior via head-mounted GoPro cameras and noted any actions the user took, whether beneficial or detrimental. We noted whether the user interface seemed
-               intuitive to the user and what comments the user made as they were performing their set of tasks. At the end, we asked them to write down any comments or suggestions for how to make the game better and more fun. <!-- STOPPED HERE, DON'T FORGET TO ADD VIDEOS AND REPORTS FOR PROJECT 4 AND 5-->
+               For this milestone, we were finally ready to test our product with real users from among a random selection of our friends. The users were told to try to perform a set of tasks without any help from Pat, Nada, or I. We recorded their behavior via head-mounted<a href="http://gopro.com/">GoPro</a>cameras and noted any actions the user took, whether beneficial or detrimental. We noted whether the user interface seemed
+               intuitive to the user and what comments the user made as they were performing their set of tasks. At the end, we asked them to write down any comments or suggestions for how to make the game better and more fun. <a class="youtube" href="//www.youtube.com/embed/qm_Nk7ifqoE">User Testing Video <img src="Images/youtube.png" class="minilogo" /></a><!-- STOPPED HERE, DON'T FORGET TO ADD VIDEOS AND REPORTS FOR PROJECT 4 AND 5-->
            </li>
            <li>
                <h6>Milestone 5: Overview of project progression.</h6>
-               For this milestone, we were required to create a presentation of our project progression. Pat, Nada, and I collaborated to created a presentation via <a href="http://prezi.com">Prezi</a>. <a href="http://prezi.com/snffbxuvyy3b/?utm_campaign=share&utm_medium=copy">This was our final product <img src="Images/prezi.png" class="minilogo" /></a>. Once
+               For this milestone, we were required to create a presentation of our project progression. Pat, Nada, and I collaborated to created a presentation via<a href="http://prezi.com">Prezi</a>. <a href="http://prezi.com/snffbxuvyy3b/?utm_campaign=share&utm_medium=copy">This was our final product <img src="Images/prezi.png" class="minilogo" /></a>. Once
                again, we were able to complete the presentation soley online, although we did have a personal meeting to discuss any last minute changes and fine polishing. This was good also to make sure we knew what our parts were for the final presentation.
            </li>
         </ul>
     <h2>What did you learn from the project?</h2>
 
     <p>
-        <a class="gallery" href="http://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg">elephant</a>
-        <a class="gallery" href="http://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg">elephant</a>
-        <a class="gallery" href="http://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg">elephant</a>
+        <a class="fade" rel="group1" href="http://www.slate.com/content/dam/slate/articles/video/video/2013/10/hyena_dung_human_hair_fossil_from_south_africa_analyzed_further/78144477_2707368690001_TNC130930-hyenas-1280.jpg.CROP.thumbnail-small.jpg">hyena</a>        
+        <a class="fade" rel="group1" href="http://www.slate.com/content/dam/slate/articles/video/video/2013/10/hyena_dung_human_hair_fossil_from_south_africa_analyzed_further/78144477_2707368690001_TNC130930-hyenas-1280.jpg.CROP.thumbnail-small.jpg">hyena</a>        
+        <a class="fade" rel="group1" href="http://www.slate.com/content/dam/slate/articles/video/video/2013/10/hyena_dung_human_hair_fossil_from_south_africa_analyzed_further/78144477_2707368690001_TNC130930-hyenas-1280.jpg.CROP.thumbnail-small.jpg">hyena</a>        
     </p>
 
     <h2>What are you most proud of?</h2>
