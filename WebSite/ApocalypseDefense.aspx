@@ -82,10 +82,10 @@
                     <a class="youtube" href="//www.youtube.com/embed/7p_SHMbCO2g">Gameplay Walkthrough<img src="Images/youtube.png" class="minilogo" /></a><br />
                 </li>
                 <li>User Feedback: <a class="fade" rel="group1" href="docs/ApocalypseDefense/HCI/Project4/UserTesting/UserFeedback/1with2.png">User 1</a>, 
-            <a class="fade" rel="group1" href="docs/ApocalypseDefense/HCI/Project4/UserTesting/UserFeedback/2with1.png">User 2</a>,
-            <a class="fade" rel="group1" href="docs/ApocalypseDefense/HCI/Project4/UserTesting/UserFeedback/3.png">User 3</a>, 
-            <a class="fade" rel="group1" href="docs/ApocalypseDefense/HCI/Project4/UserTesting/UserFeedback/4.png">User 4</a>, 
-            <a class="fade" rel="group1" href="docs/ApocalypseDefense/HCI/Project4/UserTesting/UserFeedback/5.png">User 5</a></li>
+            <a class="fade1" rel="group1" href="docs/ApocalypseDefense/HCI/Project4/UserTesting/UserFeedback/2with1.png">User 2</a>,
+            <a class="fade1" rel="group1" href="docs/ApocalypseDefense/HCI/Project4/UserTesting/UserFeedback/3.png">User 3</a>, 
+            <a class="fade1" rel="group1" href="docs/ApocalypseDefense/HCI/Project4/UserTesting/UserFeedback/4.png">User 4</a>, 
+            <a class="fade1" rel="group1" href="docs/ApocalypseDefense/HCI/Project4/UserTesting/UserFeedback/5.png">User 5</a></li>
                 <li>List of Potential<a class="elastic" rel="group2" href="docs/ApocalypseDefense/HCI/Project4/UserTesting/UserFeedback/ProblemsPotentialSolutions.png">Problems and Solutions</a>.</li>
                 <li>Our milestone 4 group write-up: The <a href="docs/ApocalypseDefense/HCI/Project4/UserTesting/UserTestingReport/UserTestingReport.pdf" target="_blank">User Testing Final Report
                     <img src="Images/adobe.png" class="minilogo" /></a>.</li>
@@ -99,6 +99,13 @@
                again, we were able to complete the presentation soley online, although we did have a personal meeting to discuss any last minute changes and fine polishing. This was also essential to making sure we knew what our parts were for the final presentation. This final presentation overviews all of the milestones and outlines each group member's
                individual assignments and project participation.            
         </li>
+    </ul>
+
+    <h5>Additional Documents from Game and Mobile Application Development:</h5>
+    <ul>
+        <li><a class="fade2" rel="group6" href="docs/ApocalypseDefense/GameDev/ApocalypseDefenseUML.png">UML Diagram</a></li>
+        <li><a class="fade2" rel="group6" href="docs/ApocalypseDefense/GameDev/BitbucketOpenIssues.png">Open Issues & Bugs</a></li>
+        <li><a href="docs/ApocalypseDefense/GameDev/Requirements & Specifications.pdf" target="_blank">Requirements & Specifications</a></li>
     </ul>
     <h2>What did you learn from the project?</h2>
 
@@ -119,7 +126,7 @@
     <h2>What was your role in completing the project?</h2>
 
     <p>
-        Besides the individual assignments for the milestones, I developed the initial game logic using Python and used Matplotlib to demonstrate the working zombie-pathing and survivor tower defense. It was designed to be fairly robust for later upgrades and enhancements to the characters such as armor and different weapons and weapon upgrades. We used this initial prototype as 
+        Besides the individual and group assignments for the milestones, I developed the initial game logic using Python and used Matplotlib to demonstrate the working zombie-pathing and survivor tower defense. It was designed to be fairly robust for later upgrades and enhancements to the characters such as armor and different weapons and weapon upgrades. We used this initial prototype as 
         a proof-of-concept in the Game Development class. I attempted to save some time by using the Python game files and Jython to create .Jar files for the Android implementation to no avail. For the remainder of the semester, Pat and I used the pair programming technique to translate the Python code to Java and implement in Android while Nada did extensive work in the graphics department. 
     </p>
 
@@ -128,5 +135,7 @@
     <p>
         I would probably rush to get a working prototype on Android with skeleton functionality. Once I was able to create a tower and a zombie, I would work on their ability to interact and create the user interface around that interaction. As I tested the product with and without users, I would be able to see where the interface could evolve and I could enhance playability and the overall user experience. 
     </p>
+
+    <h6>This project is also found on<a href="https://github.com/blairg23/Apocalypse-Defense" target="_blank">GitHub<img src="Images/github.png" class="minilogo" /></a>.</h6>
 </asp:Content>
 

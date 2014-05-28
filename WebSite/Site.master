@@ -19,7 +19,8 @@
 		    $(document).ready(function () {
 		        //Examples of how to assign the Colorbox event to elements
 		        $(".elastic").colorbox({ rel: 'group1' });
-		        $(".fade").colorbox({ rel: 'group2', transition: "fade" });
+		        $(".fade1").colorbox({ rel: 'group2', transition: "fade" });
+		        $(".fade2").colorbox({ rel: 'group6', transition: "fade" });
 		        $(".no-transition").colorbox({ rel: 'group3', transition: "none", width: "75%", height: "75%" });
 		        $(".slideshow").colorbox({ rel: 'group4', slideshow: true });
 		        $(".ajax").colorbox();
