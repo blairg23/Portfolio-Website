@@ -13,7 +13,7 @@
     </hgroup>
     <br />
     <%--<iframe width="640" height="390" src="//www.youtube.com/embed/7p_SHMbCO2g" frameborder="0" allowfullscreen></iframe>--%>
-    <a class="youtube" href="//www.youtube.com/embed/7p_SHMbCO2g">
+    <a class="youtube" href="//www.youtube.com/embed/7p_SHMbCO2g" title="Gameplay Walkthrough">
         <img src="Images/gameplay_walkthrough.PNG" /></a>
     <br />
     <h2>What was the project assignment?</h2>
@@ -78,15 +78,15 @@
                     <a href="docs/ApocalypseDefense/HCI/Project4/IRB-Certificates/SectionOneAssessmentResults.pdf" target="_blank">Section 1<img src="Images/adobe.png" class="minilogo" /></a>, 
                     <a href="docs/ApocalypseDefense/HCI/Project4/IRB-Certificates/SectionTwoAssessmentResults.pdf" target="_blank">Section 2<img src="Images/adobe.png" class="minilogo" /></a>, 
                     <a href="docs/ApocalypseDefense/HCI/Project4/IRB-Certificates/SectionSixAssessmentResults.pdf" target="_blank">Section 6<img src="Images/adobe.png" class="minilogo" /></a></li>
-                <li><a class="youtube" href="//www.youtube.com/embed/qm_Nk7ifqoE">User Testing Video<img src="Images/youtube.png" class="minilogo" /></a>
-                    <a class="youtube" href="//www.youtube.com/embed/7p_SHMbCO2g">Gameplay Walkthrough<img src="Images/youtube.png" class="minilogo" /></a><br />
+                <li><a class="youtube" href="//www.youtube.com/embed/qm_Nk7ifqoE" title="User Testing Video">User Testing Video<img src="Images/youtube.png" class="minilogo" /></a>
+                    <a class="youtube" href="//www.youtube.com/embed/7p_SHMbCO2g" title="Gameplay Walkthrough">Gameplay Walkthrough<img src="Images/youtube.png" class="minilogo" /></a><br />
                 </li>
-                <li>User Feedback: <a class="fade" rel="group1" href="docs/ApocalypseDefense/HCI/Project4/UserTesting/UserFeedback/1with2.png">User 1</a>, 
-            <a class="fade1" rel="group1" href="docs/ApocalypseDefense/HCI/Project4/UserTesting/UserFeedback/2with1.png">User 2</a>,
-            <a class="fade1" rel="group1" href="docs/ApocalypseDefense/HCI/Project4/UserTesting/UserFeedback/3.png">User 3</a>, 
-            <a class="fade1" rel="group1" href="docs/ApocalypseDefense/HCI/Project4/UserTesting/UserFeedback/4.png">User 4</a>, 
-            <a class="fade1" rel="group1" href="docs/ApocalypseDefense/HCI/Project4/UserTesting/UserFeedback/5.png">User 5</a></li>
-                <li>List of Potential<a class="elastic" rel="group2" href="docs/ApocalypseDefense/HCI/Project4/UserTesting/UserFeedback/ProblemsPotentialSolutions.png">Problems and Solutions</a>.</li>
+                <li>User Feedback: <a class="fade_1" href="docs/ApocalypseDefense/HCI/Project4/UserTesting/UserFeedback/1with2.png" title="User 1">User 1</a>, 
+            <a class="fade_1" href="docs/ApocalypseDefense/HCI/Project4/UserTesting/UserFeedback/2with1.png" title="User 2">User 2</a>,
+            <a class="fade_1" href="docs/ApocalypseDefense/HCI/Project4/UserTesting/UserFeedback/3.png" title="User 3">User 3</a>, 
+            <a class="fade_1" href="docs/ApocalypseDefense/HCI/Project4/UserTesting/UserFeedback/4.png" title="User 4">User 4</a>, 
+            <a class="fade_1" href="docs/ApocalypseDefense/HCI/Project4/UserTesting/UserFeedback/5.png" title="User 5">User 5</a></li>
+                <li>List of Potential<a class="fade_2" rel="group2" href="docs/ApocalypseDefense/HCI/Project4/UserTesting/UserFeedback/ProblemsPotentialSolutions.png" title="List of Potential Problems and Solutions">Problems and Solutions</a>.</li>
                 <li>Our milestone 4 group write-up: The <a href="docs/ApocalypseDefense/HCI/Project4/UserTesting/UserTestingReport/UserTestingReport.pdf" target="_blank">User Testing Final Report
                     <img src="Images/adobe.png" class="minilogo" /></a>.</li>
                 <li>My<a href="docs/ApocalypseDefense/HCI/Project4/UserTesting/IndividualReflection.pdf" target="_blank">Individual Reflection<img src="Images/adobe.png" class="minilogo" /></a>on user testing.</li>
@@ -103,15 +103,15 @@
 
     <h5>Additional Documents from Game and Mobile Application Development:</h5>
     <ul>
-        <li><a class="fade2" rel="group6" href="docs/ApocalypseDefense/GameDev/ApocalypseDefenseUML.png">UML Diagram</a></li>
-        <li><a class="fade2" rel="group6" href="docs/ApocalypseDefense/GameDev/BitbucketOpenIssues.png">Open Issues & Bugs</a></li>
-        <li><a href="docs/ApocalypseDefense/GameDev/Requirements & Specifications.pdf" target="_blank">Requirements & Specifications</a></li>
+        <li><a class="fade_3" href="docs/ApocalypseDefense/GameDev/ApocalypseDefenseUML.png" title="UML Diagram">UML Diagram</a></li>
+        <li><a class="fade_3" href="docs/ApocalypseDefense/GameDev/BitbucketOpenIssues.png" title="Open Issues & Bugs">Open Issues & Bugs</a></li>
+        <li><a href="docs/ApocalypseDefense/GameDev/Requirements & Specifications.pdf" target="_blank">Requirements & Specifications<img src="Images/adobe.png" class="minilogo" /></a></li>
     </ul>
     <h2>What did you learn from the project?</h2>
 
     <p>
         Before developing this project, I never really had a clear understanding of user-centered design principles. I had a pretty good grasp on what it meant to use an iterative design technique. It makes sense to design something thoroughly, test it, and make sure it's flawless before sending out the final product. The problem is that I can develop the "perfect" system that
-        accounts for every piece of functionality that the user desires, but there is no way to know what functionality I am missing without running the user interface through a rigorous scientific process. Cognitive walkthroughs, heuristic evaluations, and peer reviews on the design really helped refine the end product. The user-testing especially opened my eyes to how much 
+        accounts for every piece of functionality that I think the user desires, but there is no way to know what functionality I am missing without running the user interface through a rigorous scientific process. Cognitive walkthroughs, heuristic evaluations, and peer reviews on the design really helped refine the end product. The user-testing especially opened my eyes to how much 
         different our views of functionality can be, even among people of similar backgrounds. This is especially true when it comes to games and mobile applications. I think the low and mid-fidelity prototypes really showed me how simply we can create a "working" user interface to show a client and have them critique or agree to a specific design before you even start any 
         implementation in code. 
     </p>
@@ -133,7 +133,8 @@
     <h2>What would you do differently next time?</h2>
 
     <p>
-        I would probably rush to get a working prototype on Android with skeleton functionality. Once I was able to create a tower and a zombie, I would work on their ability to interact and create the user interface around that interaction. As I tested the product with and without users, I would be able to see where the interface could evolve and I could enhance playability and the overall user experience. 
+        I would probably rush to get a working prototype of the user interface with limited functionality onto the Android platform. Once I was able to create a tower and a zombie, I would work on their ability to interact and create the main gameplay user interface around that interaction. As I tested the product with and without users, I would be able to see where the interface 
+        could evolve and I could enhance playability and the overall user experience. 
     </p>
 
     <h6>This project is also found on<a href="https://github.com/blairg23/Apocalypse-Defense" target="_blank">GitHub<img src="Images/github.png" class="minilogo" /></a>.</h6>

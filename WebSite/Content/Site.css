@@ -327,10 +327,21 @@ article {
     width: 70%;
 }
 
-.minilogo {
+.minilogo { /*For tiny little logos*/
     height:1em;
     width:1em;
 }
+
+.thumbnail { /*For thumbnail images*/
+    height:5em;
+    width:5em;
+}
+
+    .thumbnail:hover { /*When thumbnails are hovered over*/
+        height:6em;
+        width:6em;
+    }
+
 aside {
     font-family: Rockwell, 'Courier New', monospace;
     float: right;
