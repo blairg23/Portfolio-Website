@@ -87,7 +87,7 @@
         <li><a href="//www.youtube.com/embed/o8hDJY0mbwU" class="youtube" title="1000 Grains of Sand">1000 Grains of Sand<img src="Images/youtube.png" class="minilogo" /></a></li>
     </ul>
 
-    <h6>Plots of Different Iteration Values for the Matlab Simulation:</h6>
+    <h6>Plots of Different Iteration Values (# of grains dropped) for the Matlab Simulation:</h6>
     <br />
     <a href="Images/BakTang/Matlab/10_sm.png" class="fade_1" title="10 Grains of Sand">
         <img src="Images/BakTang/Matlab/10_sm.png" class="thumbnail" /></a>
