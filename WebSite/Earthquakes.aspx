@@ -100,6 +100,8 @@
         all at once. It might also be nice to create an interactive globe basemap so the user can see the earthquake events from any chosen angle. One final adjustment I would like to make is
         to show the viewer what area each longitude/latitude point represents in the lower subplot so they can easily visualize the areas being affected by the earthquake events.
     </p>
+
+    <h6>This project also on <a href="https://github.com/blairg23/Earthquakes" target="_blank">GitHub<img src="Images/github.png" class="minilogo" /></a></h6>
 </asp:Content>
 
 
