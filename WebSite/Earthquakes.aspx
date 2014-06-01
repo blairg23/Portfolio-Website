@@ -67,7 +67,7 @@
     </p>
     
     <p>
-        Initially, I created a group of images as a first draft to test Basemap. My final deliverable was a presentation demonstrating my final draft plot images and an animation.<br />
+        Initially, I created a group of images as a first draft to test Basemap. My final deliverable was a presentation demonstrating my final draft plot images and an animation, as well as a short <a href="docs/Earthquakes/FinalProjectWriteup.pdf" target="_blank">write-up<img src="Images/adobe.png" class="minilogo" /></a>. <br />
     </p>
 
     <h6>First Draft: All Earthquakes</h6><br /><%--Had a bug here, bug went away, not sure why. --%>

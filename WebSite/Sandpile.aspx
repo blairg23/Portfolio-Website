@@ -130,10 +130,11 @@
     <h2>What would you do differently next time?</h2>
 
     <p>
-        If I had my choice, I would use Matlab for this simulation. As shown in my examples of Cellular Automata written in Matlab, there is a lot of power in Matlab that can be harnessed for this type of project. I really have a love for Python when it comes to a lot of things, but I haven't mastered the animations of Matplotlib plots yet. I think a future project is in store
-        for me to learn more about Python animations!
+        If I had my choice, I would use Matlab for this simulation. I also would've liked to have time to create a 3D version of this simulation to be 
+        able to see the individual sandpiles form. As shown in my examples of Cellular Automata written in Matlab, there is a lot of power in Matlab that 
+        can be harnessed for this type of project. I really have a love for Python when it comes to a lot of things, but I haven't mastered the animations 
+        of Matplotlib plots yet. I think a future project is in store for me to learn more about Python animations! 
     </p>
-
     <h6>This project is also found on<a href="https://github.com/blairg23/Bak-Tang-Wiesenfeld-Sandpile-Model" target="_blank">GitHub<img src="Images/github.png" class="minilogo" /></a>.</h6>
 </asp:Content>
 

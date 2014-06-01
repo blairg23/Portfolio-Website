@@ -77,22 +77,85 @@
     <p>
         I was amazed that we were able to design, test, and implement this project within the bounds of a semester and still have a highly functioning product before the end of finals week.
         I'm used to finishing projects in a semester, but having a rather rudimentary prototype as my "final product". Developing a product that not only "meets expectations of functionality", 
-        but also considerably "beats" the previous competing solution in such a short time was inspiring. First of all, it showed me how easy it is to use rapid deployment design principles 
-        with ASP.NET in C# to create a nice "working" prototype to show the user right away. Instantly upon viewing this prototype, the client was confident that we could create this product 
-        in the time allotted and that the final deliverable would be clean and user friendly, while providing quality functionality.
+        but also considerably "beats" the previous competing solution in such a short time was inspiring. First of all, it showed me how easy it is to use <a href="http://en.wikipedia.org/wiki/Rapid_application_development" target="_blank">rapid application development</a>
+        design principles with ASP.NET in C# to create a nice "working" prototype to show the user right away. Instantly upon viewing this prototype, the client was confident that we could 
+        create this product in the time allotted and that the final deliverable would be clean and user friendly, while providing quality functionality.
     </p>
 
     <h2>What was your role in completing the project?</h2>
 
     <p>
         I was part of the customer requirements team. My job was to gather the requirements from the client, as well as schedule regular meetings with him to approve our progress. Everyone on
-        the development team was required to hand in weekly status and hour tracking reports to the project manager (Dr. Henry). As our final deliverable, we were also required to create a 
-        professional-grade user manual out of the documents we gathered from the development teams.
+        the development team was required to hand in <a href="docs/WolfBox/StatusUpdates/WeeklyStatusReports.pdf" target="_blank">weekly status updates<img src="Images/adobe.png" class="minilogo" /></a>
+        and<a href="docs/WolfBox/StatusUpdates/HourTracking 2010.xls" target="_blank">hour tracking reports<img src="images/excel.png" class="minilogo" /></a> to the project manager (Dr. Henry). 
+        As our final deliverable, we were also required to create a professional-grade<a href="docs/WolfBox/UserManual/Hoot-User-Manual.pdf" target="_blank">User Manual<img src="Images/adobe.png" class="minilogo" /></a>
+        out of the documents we gathered from the development teams. We also created a medium-fidelity prototype to demonstrate functionality to the client.
     </p>
+
+    <h6>Medium-Fidelity Prototype:</h6>
+    <ul>
+        <li>
+            <a href="docs/WolfBox/Prototype/1.PNG" class="fade_1" title="Hoot Prototype: GUI Overview. (Next Step: Click New Category to get started)">GUI Overview.</a>
+
+        </li>
+        <li>
+            <a href="docs/WolfBox/Prototype/2.PNG" class="fade_1" title="Hoot Prototype: Create a New Category. (Next Step: Type in category name, then click Submit)">Create a New Category.</a>
+        </li>
+        <li>
+            <a href="docs/WolfBox/Prototype/3.PNG" class="fade_1" title="Hoot Prototype: Category 'Wolves' Created. (Next Step: Select 'Wolves' category to highlight)">Category "Wolves" Created.</a>
+        </li>
+        <li>
+            <a href="docs/WolfBox/Prototype/4.PNG" class="fade_1" title="Hoot Prototype: Category 'Wolves' Highlighted. (Next Step: Click Add Audio)">Category "Wolves" Highlighted.</a>
+        </li>
+        <li>
+            <a href="docs/WolfBox/Prototype/5.PNG" class="fade_1" title="Hoot Prototype: Audio Selection Browser. (Next Step: Browse for sound files)">Audio Selection Browser.</a>
+        </li>
+        <li>
+            <a href="docs/WolfBox/Prototype/6.PNG" class="fade_1" title="Hoot Prototype: Selecting Audio. (Next Step: Select .wav or .mp3 files from browser and click Open)">Selecting Audio.</a>
+        </li>
+        <li>
+            <a href="docs/WolfBox/Prototype/7.PNG" class="fade_1" title="Hoot Prototype: Start Creating an Event for First Sound File. (Next Step: Type in information on the right under Create Events and click Create Event)">Start Creating an Event for First Sound File.</a>
+        </li>
+        <li>
+            <a href="docs/WolfBox/Prototype/8.PNG" class="fade_1" title="Hoot Prototype: Create the Event. (Next Step: Select View All Scheduled Events option at the top of Scheduled Events)">Create the Event.</a>
+        </li>
+        <li>
+            <a href="docs/WolfBox/Prototype/9.PNG" class="fade_1" title="Hoot Prototype: View All Events. (Next Step: Select View Selected Date[s], then select a date or dates from the calendar in the top left)">View All Events.</a>
+        </li>
+        <li>
+            <a href="docs/WolfBox/Prototype/10.PNG" class="fade_1" title="Hoot Prototype: View Specific Event. (Next Step: Highlight a date or date range in the Date Browser in the upper left and click Copy Events)">View Specific Event.</a>
+        </li>
+        <li>
+            <a href="docs/WolfBox/Prototype/11.PNG" class="fade_1" title="Hoot Prototype: Copy an Event. (Next Step: Highlight a date or date range in the Date Browser and click Repeat)">Copy an Event.</a>
+        </li>
+        <li>
+            <a href="docs/WolfBox/Prototype/12.PNG" class="fade_1" title="Hoot Prototype: Paste an Event. (Next Step: Click File -> Open -> Saved Schedule)">Paste an Event.</a>
+        </li>
+        <li>
+            <a href="docs/WolfBox/Prototype/13.png" class="fade_1" title="Hoot Prototype: Import a Schedule. (Next Step: Click Export)">Import a Schedule.</a>
+        </li>
+        <li>
+            <a href="docs/WolfBox/Prototype/14.png" class="fade_1" title="Hoot Prototype: Export a Schedule. (Next Step: Click Send Schedule to Desktop">Export a Schedule.</a>
+        </li>
+        <li>
+            <a href="docs/WolfBox/Prototype/15.PNG" class="fade_1" title="Hoot Prototype: Exporting Schedule.">Exporting Schedule.</a>
+        </li>
+    </ul>
+
+
+
+
+
+
+
 
     <h2>What would you do differently next time?</h2>
 
     <p>
+        I actually don't have a lot of qualms about this project. Usually, I come to the end of a semester and wish I had spent more time on design, implementation, or testing. However, what our team delivered 
+        felt like a finished product that would need very little maintenance in the future. We developed a product that was satisfactory to the user's requirements by performing rigorous testing and design
+        procedures and holding ourselves to a high standard of a<a href="http://en.wikipedia.org/wiki/Zero_Defects" target="_blank">zero defects methodology</a>. While it is rare to have zero defects in any 
+        project, our testing department and developers worked hand in hand to keep our bug list to an absolute minimum throughout the implementation stages. 
     </p>
 
     <h6>This project is also found on<a href="https://github.com/blairg23/Hoot-Wolf-Box" target="_blank">GitHub<img src="Images/github.png" class="minilogo" /></a>.</h6>
