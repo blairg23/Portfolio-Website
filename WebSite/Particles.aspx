@@ -34,22 +34,89 @@
     <h2>What did you learn from the project?</h2>
 
     <p>
+        I never really had a true understanding of how particles interacted until completing this project. It makes sense that things that are liquid
+        should have some type of cirulation or flow, but I had given no thought to how solid things acted in a fluid-like environment. Because this is
+        only a simulation where the spheres act as nuts and are not actually shaped like nuts, it isn't a perfect demonstration. However, it does show
+        the dynamics of how smaller objects are able to fall between the "cracks" among larger objects and how they all move together. In my slower and
+        larger demonstrations, we can see how the objects act in a fairly free-flow environment. In my fast and small demonstrations, we see the objects
+        conjoin together much quicker and form a "full box of nuts" almost immediately.
+    </p>
+    <p>
+        I had previous experience with OpenGL, but only implemented in C++. I never realized how easily one can translate C++ OpenGL code to Python. 
+        In fact, the syntax is exactly the same, minus the semicolons and curly braces. I plan to use Python for any future OpenGL projects I might encounter. 
+        I especially like the idea of creating OpenGL pages dynamically with Python. I think this would be a great improvement over C++ for readability and
+        writeability, but may suffer in terms of resource usage.
     </p>
 
     <h2>What are you most proud of?</h2>
 
     <p>
+        I'm proud that I was able to deliver a reasonably high quality product by the end of the semester. There were a lot of pitfalls and trials in creating
+        the visualization the way I wanted to and I missed a lot of my low priority goals, but visually you can't really tell that in the final deliverable. I
+        was really surprised how well OpenGL works with Python, once you understand the OpenGL syntax. The graphics didn't seem choppy or difficult to render.
+        The only major problems I ran into with the OpenGL/Python mix was memory. I was developing this project on my Mac OSX machine and had no troubles, but
+        when I tried to test on my windows machine with only 2 GB of RAM the graphics slow or crash. This is normal behavior, however, because the simulation 
+        sends thousands of spheres per minute (drops a ball every .1 ms). The slower simulations worked better under the low resource condition. However, using
+        a larger bounding box for the simulation seemed to have an equivelent resource issue.
     </p>
 
     <h2>What was your role in completing the project?</h2>
 
     <p>
+        I was the sole designer of the driver for this product, but we were given the integration and particle physics calculations. My task was to create that
+        driver for the product and add any alterations to the "default view" as necessary to prove my hypothesis. The hypothesis I chose was that denser fluids
+        tend to have less motion than less dense fluids, which I think the simulation demonstrated quite nicely. If you could take a jar of nuts into space, the
+        fewer nuts that were in the jar would allow the nuts to flow more freely, while a full jar would allow barely any movement at all. My final deliverable
+        included a<a href="docs/Particles/ParticlesWriteup.pdf" target="_blank">brief write-up<img src="Images/adobe.png" class="minilogo"/></a> and a few animations demonstrating the simulation.
     </p>
+    <h4>Simulation Demonstration:</h4>
+    <h6>External Light Source:</h6>
+    <ul>        
+        <li>            
+            <a href="//www.youtube.com/embed/76GL3PU_IVA" class="youtube">Fast Flow</a>
+        </li>
+        <li>
+            <a href="//www.youtube.com/embed/D6b0Fs-uNcc" class="youtube">Medium Flow</a>
+        </li>
+        <li>
+            <a href="//www.youtube.com/embed/DGOMe8TSITM" class="youtube">Slow Flow</a>
+        </li>
+        <li>
+            <a href="//www.youtube.com/embed/r6-JgHrZFEU" class="youtube">Medium Flow (Top View)</a>
+        </li>
+        <li>
+            <a href="//www.youtube.com/embed/uhvymmnemzE" class="youtube">Fast Flow (Large Bounding Box)</a>
+        </li>
+    </ul>
 
+    <h6>Internal Light Source:</h6>
+    <ul>
+        <li>            
+            <a href="//www.youtube.com/embed/sbELY69AnCg" class="youtube">Fast Flow</a>
+        </li>
+        <li>
+            <a href="//www.youtube.com/embed/7oH9KGtI_bE" class="youtube">Fast Flow (Greyscale)</a>
+        </li>
+        <li>
+            <a href="//www.youtube.com/embed/BGjZKAikQD8" class="youtube">Medium Flow</a>
+        </li>
+        <li>
+            <a href="//www.youtube.com/embed/AQiOHshCyKQ" class="youtube">Slow Flow</a>
+        </li>
+        <li>
+            <a href="//www.youtube.com/embed/V4kz1D2AiWs" class="youtube">Medium Flow (Top View)</a>
+        </li>
+        <li>
+            <a href="//www.youtube.com/embed/bkPMLZSydUI" class="youtube">Fast Flow (Large Bounding Box)</a>
+        </li>
+        
+    </ul>
     <h2>What would you do differently next time?</h2>
 
     <p>
+        I would like to add a GUI to allow the control of lighting and zoom, as well as different modes for color materials and the alpha channel. I would also
+        like to allow the user to control the "drip" flow rate and size of box without having to adjust source code.        
     </p>
-        <h6>This project is also found on<a href="https://github.com/blairg23/Particle-Simulator" target="_blank">GitHub<img src="Images/github.png" class="minilogo" /></a>.</h6>
+        <h6>This project is also found on<a href="https://github.com/blairg23/Particle-Simulator" target="_blank">GitHub<img src="Images/github.png" class="minilogo" /></a></h6>
 </asp:Content>
 

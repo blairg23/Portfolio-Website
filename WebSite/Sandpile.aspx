@@ -135,6 +135,6 @@
         can be harnessed for this type of project. I really have a love for Python when it comes to a lot of things, but I haven't mastered the animations 
         of Matplotlib plots yet. I think a future project is in store for me to learn more about Python animations! 
     </p>
-    <h6>This project is also found on<a href="https://github.com/blairg23/Bak-Tang-Wiesenfeld-Sandpile-Model" target="_blank">GitHub<img src="Images/github.png" class="minilogo" /></a>.</h6>
+    <h6>This project is also found on<a href="https://github.com/blairg23/Bak-Tang-Wiesenfeld-Sandpile-Model" target="_blank">GitHub<img src="Images/github.png" class="minilogo" /></a></h6>
 </asp:Content>
 

@@ -78,7 +78,7 @@
         I was amazed that we were able to design, test, and implement this project within the bounds of a semester and still have a highly functioning product before the end of finals week.
         I'm used to finishing projects in a semester, but having a rather rudimentary prototype as my "final product". Developing a product that not only "meets expectations of functionality", 
         but also considerably "beats" the previous competing solution in such a short time was inspiring. First of all, it showed me how easy it is to use <a href="http://en.wikipedia.org/wiki/Rapid_application_development" target="_blank">rapid application development</a>
-        design principles with ASP.NET in C# to create a nice "working" prototype to show the user right away. Instantly upon viewing this prototype, the client was confident that we could 
+        design principles with C# in Visual Studio to create a nice "working" prototype to show the user right away. Instantly upon viewing this prototype, the client was confident that we could 
         create this product in the time allotted and that the final deliverable would be clean and user friendly, while providing quality functionality.
     </p>
 
@@ -158,7 +158,7 @@
         project, our testing department and developers worked hand in hand to keep our bug list to an absolute minimum throughout the implementation stages. 
     </p>
 
-    <h6>This project is also found on<a href="https://github.com/blairg23/Hoot-Wolf-Box" target="_blank">GitHub<img src="Images/github.png" class="minilogo" /></a>.</h6>
+    <h6>This project is also found on<a href="https://github.com/blairg23/Hoot-Wolf-Box" target="_blank">GitHub<img src="Images/github.png" class="minilogo" /></a></h6>
 </asp:Content>
 
 

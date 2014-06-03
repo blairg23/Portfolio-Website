@@ -137,6 +137,6 @@
         could evolve and I could enhance playability and the overall user experience. 
     </p>
 
-    <h6>This project is also found on<a href="https://github.com/blairg23/Apocalypse-Defense" target="_blank">GitHub<img src="Images/github.png" class="minilogo" /></a>.</h6>
+    <h6>This project is also found on<a href="https://github.com/blairg23/Apocalypse-Defense" target="_blank">GitHub<img src="Images/github.png" class="minilogo" /></a></h6>
 </asp:Content>
 
