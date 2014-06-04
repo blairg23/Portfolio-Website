@@ -16,10 +16,13 @@
     <p>
         I've also always been a gamer. This doesn't mean I sat up all ends of the night on Super Mario Bros. (although,
         I did in my later years as a teenager), but it did mean that I never neglected family game night! We would spend
-        hours on The Farming Game, Pit, Don't Go to Jail, and my personal favorite: Scotland Yard. I would always be the spy
-        and my family would be the detectives searching London for me. 9 times out of 10, I would win by using false flags
-        to misdirect them toward a different landing zone so they would be on the entire opposite side of London while I enjoyed
-        total freedom and immunity from the long arm of the law.
+        hours on <a href="http://www.amazon.com/Weekend-Farmer-WF100-Farming-Game/dp/B00004UDWU" target="_blank">The Farming Game</a>,
+        <a href="http://www.amazon.com/Winning-Moves-1019-Deluxe-Pit/dp/B00000DMBD" target="_blank">Pit</a>, 
+        <a href="http://www.amazon.com/Dont-Go-Jail-Monopoly-Dice/dp/B000HHUUII" target="_blank">Don't Go To Jail</a>, 
+        and my personal favorite: <a href="http://www.amazon.com/Ravensburger-Scotland-Yard-Family-Game/dp/B00005NZVL" target="_blank">Scotland Yard</a>.
+        I would always be the spy and my family would be the detectives searching London for me. 9 times out of 10, I would win 
+        by using false flags to misdirect them toward a different landing zone so they would be on the entire opposite side of 
+        London while I enjoyed total freedom and immunity from the long arm of the law.
     </p>
 
     <p>
@@ -45,8 +48,9 @@
         When I completed my undergraduate degree in Psychology, I was easily convinced by Dr. Joel Henry to complete an M.S. in Computer Science 
         rather than settle for two undergraduate degrees. It wasn't a difficult decision to make because I had already grown to love the faculty
         in the Computer Science department and felt like I had a home there. I was a little apprehensive at first by the lack of female occupancy,
-        but I made due by taking additional courses in Psychology and Math. I completed my minor in Math and Media Arts with little difficulty and
-        now have a full appreciation for the tedious nature of developing animations and film, as well as a newfound addiction to mathematics.
+        but I managed to overcome this hurdle by taking additional courses in Psychology and Math. I completed my minor in Math and Media Arts 
+        with little difficulty and now have a full appreciation for the tedious nature of developing animations and film, as well as a newfound 
+        addiction to mathematics.
     </p>
     <p>
         I have been enjoying the past few years here in Missoula, Montana and hope to make it a home for a good amount of time. If I do move, Missoula
