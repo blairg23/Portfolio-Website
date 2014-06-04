@@ -7,7 +7,7 @@
         <h2>A Python script to plot earthquakes that have occurred in the world, using the Matplotlib Basemap module.</h2>
         <h6><b>Fall 2011:</b>
             <br />
-            CSCI 444 - Data Visualization - <b>Dr. Jesse Johnson</b>
+            CSCI 444 - Data Visualization - <b><a href="http://www.cas.umt.edu/casweb/faculty/FacultyDetails.cfm?id=540" target="_blank">Dr. Jesse Johnson</a></b>
         </h6>
     </hgroup>
     <br />

@@ -7,7 +7,7 @@
         <h2>A hardware / software solution for broadcasting and recording sounds in adverse climates.</h2>
         <h6><b>Spring 2010:</b>
             <br />
-            CS 442 - Advanced Programming II - <b>Dr. Joel Henry</b>
+            CS 442 - Advanced Programming II - <b><a href="http://www.drjoelhenry.com/" target="_blank">Dr. Joel Henry</a></b>
         </h6>
     </hgroup>
     <br />

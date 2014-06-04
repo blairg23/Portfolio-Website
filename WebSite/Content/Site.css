@@ -15,6 +15,34 @@ body {
     padding: 0;
 }
 
+.fat-title {
+    color:#999;
+    font-family: Rockwell, 'Courier New', monospace;
+    /*font-family: source-sans-pro, "Source Sans Pro", Helvetica, Arial, sans-serif;*/        
+    font-size:1.5em;
+    font-weight:bold;
+}
+.skinny-title {
+    color:#000;
+    font-size:1em;
+    margin-bottom:0;
+    padding-bottom:0;
+}
+.fat-words {
+    color:#000;
+    /*font-family: Rockwell, 'Courier New', monospace;*/
+    font-weight:bold;
+    font-size:.75em;
+    margin-top:0;
+    padding-top:0;
+}
+.skinny-words {
+    color:#555;
+    font-weight:100;
+    font-size:.75em;
+    margin-top:0;
+    padding-top:0;
+}
 a {
     /*color: #333;*/
     color: #e80c4d;
@@ -331,6 +359,14 @@ article {
     height:1em;
     width:1em;
 }
+
+.largerlogo {/*For slightly larger logos*/
+    height:2em;
+    width:2em;
+}
+    .largerlogo a{
+        text-decoration:none;
+    }
 
 .thumbnail { /*For thumbnail images*/
     height:5em;

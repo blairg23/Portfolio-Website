@@ -7,9 +7,11 @@
         <h2>A particle physics simulator written in Python using OpenGL.</h2>
         <h6><b>Fall 2011:</b>
             <br />
-            CSCI 444 - Data Visualization - <b>Dr. Jesse Johnson</b>
+            CSCI 444 - Data Visualization - <b><a href="http://www.cas.umt.edu/casweb/faculty/FacultyDetails.cfm?id=540" target="_blank">Dr. Jesse Johnson</a></b>
         </h6>
     </hgroup>
+    <br />
+    <img src="Images/Particles/ParticleSimulator.PNG" width="50%" height="50%" />
     <br />
     <h2>What was the project assignment?</h2>
     <p>
@@ -73,49 +75,50 @@
     <h6>External Light Source:</h6>
     <ul>        
         <li>            
-            <a href="//www.youtube.com/embed/76GL3PU_IVA" class="youtube">Fast Flow</a>
+            <a href="//www.youtube.com/embed/76GL3PU_IVA" class="youtube" title="External Light Source: Fast Flow.">Fast Flow<img src="Images/youtube.png" class="minilogo" /></a>
         </li>
         <li>
-            <a href="//www.youtube.com/embed/D6b0Fs-uNcc" class="youtube">Medium Flow</a>
+            <a href="//www.youtube.com/embed/D6b0Fs-uNcc" class="youtube" title="External Light Source: Medium Flow.">Medium Flow<img src="Images/youtube.png" class="minilogo" /></a>
         </li>
         <li>
-            <a href="//www.youtube.com/embed/DGOMe8TSITM" class="youtube">Slow Flow</a>
+            <a href="//www.youtube.com/embed/DGOMe8TSITM" class="youtube" title="External Light Source: Slow Flow.">Slow Flow<img src="Images/youtube.png" class="minilogo" /></a>
         </li>
         <li>
-            <a href="//www.youtube.com/embed/r6-JgHrZFEU" class="youtube">Medium Flow (Top View)</a>
+            <a href="//www.youtube.com/embed/r6-JgHrZFEU" class="youtube" title="External Light Source: Medium Flow (Top View).">Medium Flow (Top View)<img src="Images/youtube.png" class="minilogo" /></a>
         </li>
         <li>
-            <a href="//www.youtube.com/embed/uhvymmnemzE" class="youtube">Fast Flow (Large Bounding Box)</a>
+            <a href="//www.youtube.com/embed/uhvymmnemzE" class="youtube" title="External Light Source: Fast Flow (Large Bounding Box).">Fast Flow (Large Bounding Box)<img src="Images/youtube.png" class="minilogo" /></a>
         </li>
     </ul>
 
     <h6>Internal Light Source:</h6>
     <ul>
         <li>            
-            <a href="//www.youtube.com/embed/sbELY69AnCg" class="youtube">Fast Flow</a>
+            <a href="//www.youtube.com/embed/sbELY69AnCg" class="youtube" title="Internal Light Source: Slow Flow.">Fast Flow<img src="Images/youtube.png" class="minilogo" /></a>
         </li>
         <li>
-            <a href="//www.youtube.com/embed/7oH9KGtI_bE" class="youtube">Fast Flow (Greyscale)</a>
+            <a href="//www.youtube.com/embed/7oH9KGtI_bE" class="youtube" title="Internal Light Source: Fast Flow (Greyscale).">Fast Flow (Greyscale)<img src="Images/youtube.png" class="minilogo" /></a>
         </li>
         <li>
-            <a href="//www.youtube.com/embed/BGjZKAikQD8" class="youtube">Medium Flow</a>
+            <a href="//www.youtube.com/embed/BGjZKAikQD8" class="youtube" title="Internal Light Source: Medium Flow.">Medium Flow<img src="Images/youtube.png" class="minilogo" /></a>
         </li>
         <li>
-            <a href="//www.youtube.com/embed/AQiOHshCyKQ" class="youtube">Slow Flow</a>
+            <a href="//www.youtube.com/embed/AQiOHshCyKQ" class="youtube" title="Internal Light Source: Slow Flow.">Slow Flow<img src="Images/youtube.png" class="minilogo" /></a>
         </li>
         <li>
-            <a href="//www.youtube.com/embed/V4kz1D2AiWs" class="youtube">Medium Flow (Top View)</a>
+            <a href="//www.youtube.com/embed/V4kz1D2AiWs" class="youtube" title="Internal Light Source: Medium Flow (Top View).">Medium Flow (Top View)<img src="Images/youtube.png" class="minilogo" /></a>
         </li>
         <li>
-            <a href="//www.youtube.com/embed/bkPMLZSydUI" class="youtube">Fast Flow (Large Bounding Box)</a>
+            <a href="//www.youtube.com/embed/bkPMLZSydUI" class="youtube" title="Internal Light Source: Fast Flow (Large Bounding Box).">Fast Flow (Large Bounding Box)<img src="Images/youtube.png" class="minilogo" /></a>
         </li>
         
     </ul>
     <h2>What would you do differently next time?</h2>
 
     <p>
-        I would like to add a GUI to allow the control of lighting and zoom, as well as different modes for color materials and the alpha channel. I would also
-        like to allow the user to control the "drip" flow rate and size of box without having to adjust source code.        
+        I would like to add a GUI to allow the control of lighting and camera zoom, as well as different modes for 
+        color materials and the alpha channel. I would also like to allow the user to control the "drip" flow rate 
+        and size of box without having to adjust source code.        
     </p>
         <h6>This project is also found on<a href="https://github.com/blairg23/Particle-Simulator" target="_blank">GitHub<img src="Images/github.png" class="minilogo" /></a></h6>
 </asp:Content>

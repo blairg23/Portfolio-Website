@@ -1,0 +1,155 @@
+\documentclass[oneside]{article}%You can define the type of paper here.
+%%Useful packages that I commonly use.
+%\usepackage[numbers]{natbib}%Bibliography package (help at http://merkel.zoneo.net/Latex/natbib.php).
+%\usepackage{url}%Package to highlight url.
+\usepackage{mathpazo}%Sets font to be math pazo.
+\usepackage{alltt}%Allows the use of verbatim (good for printing out code).
+%\usepackage{graphicx}%Used to import images.
+\usepackage[hidelinks]{hyperref} %for using URL hyperlinks
+\usepackage{amsmath, amssymb, amscd}%Contains the AMS expanded math symbols library.
+\usepackage[explicit]{titlesec} %To remove section title in headers
+%%For those who want smaller margins, you can use this:
+\usepackage[top=1in, bottom=1in, left=1in, right=1in]{geometry}
+\usepackage{fancyhdr} %%For headers/footers
+\usepackage{savetrees} %%Removes white space
+\pagestyle{fancy} %%For fancy headers
+\usepackage{tocloft}
+\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
+\usepackage{pdfpages}
+\usepackage{graphicx} %for including graphics and figures
+\usepackage{enumerate} %for custom enumerations
+\usepackage{caption} %for captions outside of floats
+\usepackage{chemarr} %for using xrightleftharpoons for chemical reactions
+\usepackage{multirow} % for using a table label that is multiple rows in size
+
+%for changing widths in columns for multiple columns:
+\usepackage{lipsum}
+\usepackage{flowfram}
+
+\fancyhf{} %removes page enumeration from center middle of footer
+
+\def\undertilde#1{\mathord{\vtop{\ialign{##\crcr
+   $\hfil\displaystyle{#1}\hfil$\crcr\noalign{\kern1.5pt\nointerlineskip}
+   $\hfil\tilde{}\hfil$\crcr\noalign{\kern1.5pt}}}}}
+
+%For adjusting widths of columns in multicolumn environment:
+\onecolumntopinarea{static}{0pt}{.6\textwidth}{\textheight}{0pt}{0pt}
+\onecolumntopinarea{static}{0pt}{.3\textwidth}{\textheight}{.7\textwidth}{0pt}
+%\onecolumntopinarea{static}{0pt}{.3\textwidth}{\textheight}{.4\textwidth}{0pt}
+
+
+%for an approximate proportion symbol:
+\def\approxprop{%
+  \def\p{%
+    \setbox0=\vbox{\hbox{$\propto$}}%
+    \ht0=0.6ex \box0 }%
+  \def\s{%
+    \vbox{\hbox{$\sim$}}%
+  }%
+  \mathrel{\raisebox{0.7ex}{%
+      \mbox{$\underset{\s}{\p}$}%
+    }}%
+}
+
+\begin{document}
+
+%Header / Footer information:
+\fancyhead[L]{\Huge{Blair Gemmer} \small{\{\href{blairgemmer.com}{blairgemmer.com} --  \href{mailto:blair.gemmer@gmail.com}{blair.gemmer@gmail.com} -- \href{tel:4062534962}{406.253.4962}\}}} %%Header
+\fancyfoot[L]{\small{\{\href{blairgemmer.com}{blairgemmer.com} --  \href{mailto:blair.gemmer@gmail.com}{blair.gemmer@gmail.com} -- \href{tel:4062534962}{406.253.4962}\}}} %Footer
+
+\renewcommand{\footrulewidth}{1pt}
+
+%\twocolumn
+
+\noindent
+\huge{Experience}
+\normalsize
+\begin{enumerate}[]
+	\item \textbf{Freelance Software Developer} \hfill May 2012 - Present\\
+		\textbf{\{Missoula, Montana\}}
+		\begin{enumerate}[*]
+			\item Developed biological models in Matlab.
+			\item Developed applications for scraping image data from websites.
+			\item Updated and developed web applications.
+			\item Performed data analysis on personal financial systems.
+			\item Developed applications to test security of personal network.
+		\end{enumerate}
+
+	\item \textit{Teacher's Assistant} for \textbf{Programming Languages} \hfill Spring 2012\\
+		\textbf{\{University of Montana-Missoula\}}
+		\begin{enumerate}[*]
+			\item Graded all assignments, papers, and exams. Also, maintained office hours to be available out of class for individual tutoring and fielding questions from students.
+		\end{enumerate}
+
+	\item \textit{Teacher's Assistant} for \textbf{Computer Ethics} \hfill Fall 2011\\
+		\textbf{\{University of Montana-Missoula\}}
+		\begin{enumerate}[*]
+			\item Graded all assignments, papers, and exams. Also, maintained office hours to be available out of class for individual tutoring and fielding questions from students.
+		\end{enumerate}
+
+	\item \textit{Instructor} for \textbf{Computer Modeling} \hfill Fall 2010 -  Spring 2011\\
+		\textbf{\{University of Montana-Missoula\}}
+		\begin{enumerate}[*]
+			\item Taught freshman and sophomore students advanced features of Microsoft Excel and Access and assisted them during labs.
+			\item Graded all assignments and exams and maintained office hours to be available out of class for individual tutoring and fielding questions from students.
+		\end{enumerate}
+
+	\item \textit{Web Developer} for the \textbf{Maven Project}\hfill Summer 2009\\
+		\textbf{\{Lifelong Learning Center, University of Montana-Missoula\}} 
+		\begin{enumerate}[*]
+			\item Developed web application for course creation to replace current Banner system.
+		\end{enumerate}
+
+	\item \textit{Web Developer} for the \textbf{Undergraduate Research Conference}\hfill 2008\\
+		\textbf{\{University of Montana-Missoula\}}
+		\begin{enumerate}[*]
+			\item Developed web application for application forms, submission forms, and display of undergraduate research papers and posters.
+		\end{enumerate}
+\end{enumerate}
+\
+
+\noindent
+\huge{Technical}
+\normalsize
+\begin{enumerate}[]
+	\item \textbf{Languages (Proficient):} Python, C\#,\\ Matlab, Java, R, \LaTeX
+	\item \textbf{Languages (Familiar):} C/C++, Perl, \\OCaml, Ruby, Javascript
+	\item \textbf{Databases:} MySQL, SQL Server, Access
+	\item \textbf{Frameworks:} jQuery, Ajax, ASP.NET
+	\item \textbf{Tools:} GIT, Mercurial, Visual Studio 2012, Emacs, VIM, Android SDK
+	\item \textbf{Operating Systems:} Mac OS X, Windows, Ubuntu Linux
+	\item \textbf{Techniques:} User-Centered Design, Iterative Design, Rapid Application Development
+\end{enumerate}
+
+\newpage
+\noindent
+\huge{Education}
+\normalsize
+\begin{enumerate}[]
+\item \textbf{University of Montana-Missoula}\\
+\vspace{2mm}
+	\textit{M.S. Computer Science}\hfill May 2014\\
+	Emphasis in Machine Learning, Data-Mining, and Simulations
+	\
+\item \textbf{University of Montana-Missoula}\\
+	\textit{B.A. Psychology} \hfill May 2010
+\end{enumerate}
+\
+
+\noindent
+\huge{Selected Projects}\\
+\normalsize
+More information for the following projects can be found on my graduate portfolio \href{blairgemmer.com}{blairgemmer.com} and the source code is on GitHub \href{https://github.com/blairg23}{@blairg23}
+\begin{enumerate}[]
+	\item \textbf{Apocalypse Defense}\\
+		A mobile zombie tower defense game written in Java for the Android 2.3 operating system.
+	\item \textbf{Bak-Tang-Wiesenfeld Model for Displaying Self-Organized\\ Criticality}\\
+		Otherwise known as the Abelian Sandpile Model, written in Python using the Matplotlib module.
+	\item \textbf{Earthquakes}\\
+		A Python script to plot earthquakes that have occurred in the world, using the Matplotlib Basemap module.
+	\item \textbf{Hoot, aka The Wolf Box}\\
+		A hardware/software solution for broadcasting and recording sounds in adverse climates.
+	\item \textbf{Particle Simulator}\\
+		A particle physics simulator written in Python using the OpenGL libraries.
+\end{enumerate}
+\end{document}

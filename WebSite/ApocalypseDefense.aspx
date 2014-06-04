@@ -6,15 +6,15 @@
         <h2>A mobile zombie game written in Java for the Android 2.3 Operating System.</h2>
         <h6><b>Spring 2012:</b>
             <br />
-            CSCI 576 - Human-Computer Interaction - <b>Dr. Yolanda Reimer</b>
+            CSCI 576 - Human-Computer Interaction - <b><a href="http://www.cas.umt.edu/casweb/faculty/FacultyDetails.cfm?id=543" target="_blank">Dr. Yolanda Reimer</a></b>
             <br />
-            CSCI 591 - Game and Mobile Application Development - <b>Michael Cassens</b>
+            CSCI 591 - Game and Mobile Application Development - <b><a href="http://www.umt.edu/xli/speakers/michaelcassens.aspx" target="_blank">Michael Cassens</a></b>
         </h6>
     </hgroup>
     <br />
     <%--<iframe width="640" height="390" src="//www.youtube.com/embed/7p_SHMbCO2g" frameborder="0" allowfullscreen></iframe>--%>
     <a class="youtube" href="//www.youtube.com/embed/7p_SHMbCO2g" title="Gameplay Walkthrough">
-        <img src="Images/gameplay_walkthrough.PNG" /></a>
+        <img src="Images/ApocalypseDefense/gameplay_walkthrough.PNG" /></a>
     <br />
     <h2>What was the project assignment?</h2>
     <p>

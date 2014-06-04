@@ -7,14 +7,14 @@
         <h2>aka Abelian Sandpile Model, written in Python using the Matplotlib module.</h2>
         <h6><b>Spring 2012:</b>
             <br />
-            CSCI 577 - Computer Simulation and Modeling - <b>Dr. Jesse Johnson</b>
+            CSCI 577 - Computer Simulation and Modeling - <b><a href="http://www.cas.umt.edu/casweb/faculty/FacultyDetails.cfm?id=540" target="_blank">Dr. Jesse Johnson</a></b>
         </h6>
     </hgroup>
     <br />
     <h5>"Who could ever calculate the path of a molecule? How do we know that the creations of worlds are not determined by falling grains of sand?" - Victor Huge, Les Miserables.</h5>
     <br />
     <p>
-        <img src="Images/Baktang.png" height="500em" width="500em" class="fade" /><br />
+        <img src="Images/BakTang/Baktang.png" height="500em" width="500em" class="fade" /><br />
         28 Million Grains of Sand Dropped.
     </p>
     <h2>What was the project assignment?</h2>
