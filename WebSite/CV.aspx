@@ -81,6 +81,19 @@
         I assisted Michael Cassens teaching Android App Inventor to middle school students.
     </p>
 
+    <p class="fat-title">Other Accomplishments</p>
+
+
+    <ul class="skinny-words">
+        <li>CompTia A+ Certification (2004)
+        </li>
+        <li>Dean's List, University of Montana (2006, 2007, 2008, 2009)
+        </li>
+        <li>Scholar of the College of Arts and Sciences, University of Montana (2006, 2008, 2009)
+        </li>
+        <li>Outstanding Student Award, American Indian Student Services, University of Montana (2013-2014)
+        </li>
+    </ul>
 
 </asp:Content>
 

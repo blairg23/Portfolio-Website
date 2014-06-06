@@ -32,14 +32,21 @@ body {
     color:#000;
     /*font-family: Rockwell, 'Courier New', monospace;*/
     font-weight:bold;
-    font-size:.75em;
+    font-size:1em;
     margin-top:0;
     padding-top:0;
 }
 .skinny-words {
     color:#555;
     font-weight:100;
-    font-size:.75em;
+    font-size:1em;
+    margin-top:0;
+    padding-top:0;
+}
+.skinny-words ul{
+    color:#555;
+    font-weight:100;
+    font-size:1em;
     margin-top:0;
     padding-top:0;
 }
