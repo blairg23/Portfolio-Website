@@ -81,7 +81,7 @@
             <a href="//www.youtube.com/embed/D6b0Fs-uNcc" class="youtube" title="External Light Source: Medium Flow.">Medium Flow<img src="Images/youtube.png" class="minilogo" /></a>
         </li>
         <li>
-            <a href="//www.youtube.com/embed/DGOMe8TSITM" class="youtube" title="External Light Source: Slow Flow.">Slow Flow<img src="Images/youtube.png" class="minilogo" /></a>
+            <a href="//www.youtube.com/embed/z3JaojuXcRo" class="youtube" title="External Light Source: Slow Flow.">Slow Flow<img src="Images/youtube.png" class="minilogo" /></a>
         </li>
         <li>
             <a href="//www.youtube.com/embed/r6-JgHrZFEU" class="youtube" title="External Light Source: Medium Flow (Top View).">Medium Flow (Top View)<img src="Images/youtube.png" class="minilogo" /></a>
