@@ -39,7 +39,7 @@
         Psych. This makes sense to me because I wanted to learn how to solve problems in complex frameworks and I started seeing connections
         between computers and the brain as I delved into greater detail in my Biological Psychology and Cognitive Psychology courses. As I
         went further into my degree in Psychology, I ended up returning to Computer Science to take some courses for undergraduate credit
-        and I became even more enthralled with the aspects of machine learning and data mining, as well as computer-human interaction. I had
+        and I became even more enthralled with the aspects of machine learning and data mining, as well as human-computer interaction. I had
         toyed around with media arts as well, but it quickly became too easy once I learned more in Computer Science. I needed a challenge
         and a dynamic environment for my brain to prune properly. I made the decision to double major in Computer Science and Psychology about
         half way through my education.

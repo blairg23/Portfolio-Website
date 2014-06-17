@@ -3,7 +3,7 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="Server">
     <hgroup class="title">
         <h1><%: Title %>.</h1>
-        <h2>A mobile zombie game written in Java for the Android 2.3 Operating System.</h2>
+        <h2>A mobile zombie tower defense game written in Java for the Android 2.3 operating system.</h2>
         <h6><b>Spring 2012:</b>
             <br />
             CSCI 576 - Human-Computer Interaction - <b><a href="http://www.cas.umt.edu/casweb/faculty/FacultyDetails.cfm?id=543" target="_blank">Dr. Yolanda Reimer</a></b>
