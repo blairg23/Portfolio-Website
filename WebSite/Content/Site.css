@@ -16,40 +16,45 @@ body {
 }
 
 .fat-title {
-    color:#999;
+    color: #999;
     font-family: Rockwell, 'Courier New', monospace;
-    /*font-family: source-sans-pro, "Source Sans Pro", Helvetica, Arial, sans-serif;*/        
-    font-size:1.5em;
-    font-weight:bold;
+    /*font-family: source-sans-pro, "Source Sans Pro", Helvetica, Arial, sans-serif;*/
+    font-size: 1.5em;
+    font-weight: bold;
 }
+
 .skinny-title {
-    color:#000;
-    font-size:1em;
-    margin-bottom:0;
-    padding-bottom:0;
+    color: #000;
+    font-size: 1em;
+    margin-bottom: 0;
+    padding-bottom: 0;
 }
+
 .fat-words {
-    color:#000;
+    color: #000;
     /*font-family: Rockwell, 'Courier New', monospace;*/
-    font-weight:bold;
-    font-size:1em;
-    margin-top:0;
-    padding-top:0;
+    font-weight: bold;
+    font-size: 1em;
+    margin-top: 0;
+    padding-top: 0;
 }
+
 .skinny-words {
-    color:#555;
-    font-weight:100;
-    font-size:1em;
-    margin-top:0;
-    padding-top:0;
+    color: #555;
+    font-weight: 100;
+    font-size: 1em;
+    margin-top: 0;
+    padding-top: 0;
 }
-.skinny-words ul{
-    color:#555;
-    font-weight:100;
-    font-size:1em;
-    margin-top:0;
-    padding-top:0;
-}
+
+    .skinny-words ul {
+        color: #555;
+        font-weight: 100;
+        font-size: 1em;
+        margin-top: 0;
+        padding-top: 0;
+    }
+
 a {
     /*color: #333;*/
     color: #e80c4d;
@@ -363,26 +368,31 @@ article {
 }
 
 .minilogo { /*For tiny little logos*/
-    height:1em;
-    width:1em;
+    height: 1em;
+    width: 1em;
 }
 
-.largerlogo {/*For slightly larger logos*/
-    height:2em;
-    width:2em;
+.largerlogo { /*For slightly larger logos*/
+    height: 2em;
+    width: 2em;
 }
-    .largerlogo a{
-        text-decoration:none;
+
+    .largerlogo a {
+        text-decoration: none;
     }
 
+        .largerlogo a:hover {
+            background-color: #e2e2e2;
+        }
+
 .thumbnail { /*For thumbnail images*/
-    height:5em;
-    width:5em;
+    height: 5em;
+    width: 5em;
 }
 
     .thumbnail:hover { /*When thumbnails are hovered over*/
-        height:6em;
-        width:6em;
+        height: 6em;
+        width: 6em;
     }
 
 aside {
@@ -420,6 +430,21 @@ aside {
     aside p {
         font-size: 1em;
     }
+
+    aside .largerlogo { /*For slightly larger logos*/
+        height: 2em;
+        width: 2em;
+    }
+
+        aside .largerlogo a img {
+            background-color: #e2e2e2;
+            color: #e2e2e2;
+        }
+
+            aside .largerlogo img:hover a:hover {
+                background-color: #e2e2e2;
+                color: #e2e2e2;
+            }
 
 .label {
     font-weight: 700;

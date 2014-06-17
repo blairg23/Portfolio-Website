@@ -56,6 +56,7 @@
 
                     <p class="sub-title">
                         Graduate Computer Science Portfolio
+                   
                     </p>
                 </div>
                 <div class="float-right">
@@ -81,22 +82,47 @@
                     <a href="ApocalypseDefense.aspx">Apocalypse Defense</a>
                     <p>
                         Apocalypse Defense: a mobile zombie tower defense game written in Java for the Android 2.3 operating system.
+                   
                     </p>
                     <a href="Sandpile.aspx">Bak-Tang-Wiesenfeld Model for Displaying Self-Organized Criticality</a>
                     <p>
                         Bak-Tang-Wiesenfeld Model: otherwise known as the Abelian Sandpile Model, written in Python using the Matplotlib module.
+                   
                     </p>
                     <a href="Earthquakes.aspx">Earthquakes around the World</a>
                     <p>
                         Earthquakes: a Python script to plot earthquakes that have occurred in the world, using the Matplotlib Basemap module.
+                   
                     </p>
                     <a href="HootWolfBox.aspx">Hoot (Wolf Box)</a>
                     <p>
                         Hoot, aka The Wolf Box: a hardware / software solution for broadcasting and recording sounds in adverse climates.
+                   
                     </p>
                     <a href="Particles.aspx">Particle Simulator</a>
                     <p>
                         Particle Simulator: a particle physics simulator written in Python using the OpenGL libraries.
+                   
+                    </p>
+
+                    <p>
+                        <h3>I can also be found at:</h3>
+                        <a href="https://www.linkedin.com/pub/blair-gemmer/8a/60a/4b" target="_blank" class="largerlogo">
+                            <img src="Images/linkedin.png" class="largerlogo" /></a>
+                        <a href="https://github.com/blairg23" target="_blank" class="largerlogo">
+                            <img src="Images/github.png" class="largerlogo" /></a>
+                        <a href="https://stackoverflow.com/users/1224827/blairg23" target="_blank" class="largerlogo">
+                            <img src="Images/stackoverflow.png" class="largerlogo" />
+                        </a>
+                        <a href="https://twitter.com/BlairGemmer" target="_blank" class="largerlogo">
+                            <img src="Images/twitter2.png" class="largerlogo" />
+                        </a>
+                        <a href="https://www.facebook.com/the.real.blair.gemmer" target="_blank" class="largerlogo">
+                            <img src="Images/facebook.png" class="largerlogo" />
+                        </a>
+                        <a href="docs/CompTIA_certificate.pdf" target="_blank" class="largerlogo">
+                            <img src="Images/comptia.jpg" class="largerlogo" />
+                        </a>
                     </p>
                 </aside>
             </section>
@@ -107,28 +133,14 @@
                 <div class="float-left">
                     <p>
                         &copy; <%: DateTime.Now.Year %> - Blair Gemmer.
+                   
                     </p>
                     <p>
                         A portfolio submitted in partial fulfillment of the requirements for the degree of Master of Science in Computer Science to the University of Montana.<br />
                     </p>
                 </div>
 
-                <div class="float-right">
-                    I can also be found at:<br />
-                    <a href="https://www.linkedin.com/pub/blair-gemmer/8a/60a/4b" target="_blank">
-                        <img src="Images/linkedin.png" class="largerlogo" /></a>
-                    <a href="https://github.com/blairg23" target="_blank">
-                        <img src="Images/github.png" class="largerlogo" /></a>
-                    <a href="https://stackoverflow.com/users/1224827/blairg23" target="_blank">
-                        <img src="Images/stackoverflow.png" class="largerlogo" />
-                    </a>
-                    <a href="https://twitter.com/BlairGemmer" target="_blank">
-                        <img src="Images/twitter2.png" class="largerlogo" />
-                    </a>
-                    <a href="https://www.facebook.com/the.real.blair.gemmer" target="_blank">
-                        <img src="Images/facebook.png" class="largerlogo" />
-                    </a>
-                </div>
+
             </div>
         </footer>
     </form>

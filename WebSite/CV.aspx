@@ -85,7 +85,7 @@
 
 
     <ul class="skinny-words">
-        <li>CompTia A+ Certification (2004)
+        <li><a href="docs/CompTIA_certificate.pdf" target="_blank">CompTia A+ Certification</a>(2004)
         </li>
         <li>Dean's List, University of Montana (2006, 2007, 2008, 2009)
         </li>
