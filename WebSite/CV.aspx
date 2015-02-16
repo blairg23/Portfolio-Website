@@ -25,7 +25,12 @@
     <p class="fat-title">Experience</p>
 
     <p class="skinny-title">
-        FREELANCE (2009-2014)        
+        HANNA-JAMES ENTERPRISES, LLC. (2014-2015)
+    </p>
+    <div class="fat-words">Senior Software Developer</div>
+
+    <p class="skinny-title">
+        FREELANCE (2009-Present)        
     </p>
     <div class="fat-words">Software Developer</div>
 
