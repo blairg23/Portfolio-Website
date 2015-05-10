@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Curriculum Vitae" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true" CodeFile="CV.aspx.cs" Inherits="Default2" %>
+﻿﻿<%@ Page Title="Curriculum Vitae" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true" CodeFile="CV.aspx.cs" Inherits="Default2" %>
 
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="Server">
@@ -11,12 +11,12 @@
 
     <p class="fat-title">Education</p>
     <p class="skinny-title">
-        UNIVERSITY OF MONTANA-MISSOULA (2010-2014)        
+        UNIVERSITY OF MONTANA-MISSOULA (2014)        
     </p>
-    <div class="fat-words">Master's Candidate in Computer Science</div>
+    <div class="fat-words">M.S. Computer Science</div>
 
     <p class="skinny-title">
-        UNIVERSITY OF MONTANA-MISSOULA (2006-2010)               
+        UNIVERSITY OF MONTANA-MISSOULA (2010)               
     </p>
     <div class="fat-words">B.A. Psychology, minor in Math and Media Arts</div>
 
@@ -25,14 +25,19 @@
     <p class="fat-title">Experience</p>
 
     <p class="skinny-title">
-        HANNA-JAMES ENTERPRISES, LLC. (2014-2015)
-    </p>
-    <div class="fat-words">Senior Software Developer</div>
-
-    <p class="skinny-title">
         FREELANCE (2009-Present)        
     </p>
     <div class="fat-words">Software Developer</div>
+
+    <p class="skinny-title">
+        LAKE MISSOULA GROUP, LLC. (2015-Present)
+    </p>
+    <div class="fat-words">Security Consultant</div>
+
+    <p class="skinny-title">
+        HANNA-JAMES ENTERPRISES, LLC. (2014-2015)
+    </p>
+    <div class="fat-words">Senior Software Developer</div>
 
     <p class="skinny-title">
         LIFELONG LEARNING CENTER (2009)
