@@ -1,0 +1,78 @@
+# COVER SHEET (best viewed on http://dillinger.io/)
+## COMPANY
+
+### Things I want in a team or project
+	- Good communication, scrum style team meetings and regular sitdowns to discuss design or testing
+	- Ability to take and give constructive criticism
+	- Dedication to the end goal (and end user)
+
+### Things I want in a job
+	- Tasks that require an attention to details
+		- I am not happy until everything is in its right place
+
+	- Simple problems or tasks that can be automated or streamlined
+		- i.e., We should never be hand entering data or solutions when scripts are available to perform these tasks
+        - So we can focus on: 
+
+    - Complex problems or tasks that require intelligent solutions
+		- Utilize our minds where they are needed most, where technology is not the best solution
+
+	- Recognition for creating intelligent solutions to those complex problems and taking leadership roles
+		- If a person shows particular strengths, they should always be directed with those strengths in mind
+
+    - Regularly require learning new methods and technologies for accomplishing tasks in a more efficient manner
+		- We live in an age where technology is rapidly evolving and we need to be able to adapt with it and learn the best new ways to accomplish old tasks more efficiently
+
+### Things I want in a company
+	1. Focus on the customer and their requirements    
+        - User-centered design principles to ensure customer satisfaction and sellability of product
+        - Iterative, test-driven design principles to ensure zero (or low) defect rate, which builds a better more stable product and ensures sellability of product and overall customer satisfaction
+	2. Focus on the employees' needs and resources
+        - Team building exercises to strengthen the team
+        - Good benefits package to ensure the health of the team    
+
+
+## PERSONAL
+
+### Things I can bring to the table 
+
+#### General Skills
+    - Attention to detail
+    - Ability to follow instructions on specific tasks
+    - Ability to develop good strategies for accomplishing tasks if given a generalized task list
+    - Ability to learn new technologies quickly and become an expert in a short amount of time
+    - Ability to research and develop new technologies and proofs of concept with limited foreknowledge of the ideas
+    - Ability to adapt to any type of work environment. Have worked as a labourer, I.T., consulting, web development, mobile applications, desktop environments (Mac, Linux, or Windows), and specification development. I work well in a team or alone, in an office or remotely.
+
+#### Specific Skills
+    - Have used Python for 5+ years, at least 3 have been on a regular basis. 
+        - I love to find simple yet elegant solutions to common problems in my own life.
+    - Good at LaTex, love to make beautiful, professional documentation
+    - Have found a new love for markdown as well
+    - Love scripting languages in general, would love to learn DART and GO (they're on my list, but haven't had time or a reason until now)
+    - Learned to love Mac OS X and most blends of Linux
+
+#### Human Skills
+    - Good temperment and ability to resolve a solution quickly without a heated argument
+    - Good humour, good sense of culture (films, music, television)
+    - Ability to create energy in a team
+    - Ability to empathize with other members of a team and to listen to their difficulties
+
+
+### Additional Resources
+    http://blairgemmer.com/CV.aspx 
+    http://blairgemmer.com/docs/resume.pdf
+
+
+### Personal References
+
+#### HANNA-JAMES ENTERPRISES, LLC.
+    Misti and Dan James - President/CEO and Vice President - 406.546.4602 
+    Bradley Bahls - Lead Project Manager, Senior Software Developer - 406.207.6351
+
+#### UNIVERSITY OF MONTANA
+    Dr. Doug Raiford - Professor, Computer Science Department Chair - 406.243.5605 
+    Dr. Joel Henry - Professor, Master's Defense Committee Chair - 406.243.2218 
+    Dr. Jesse Johnson - Professor, Computer Science Department - 406.243.2356 
+    Dr. Yolanda Reimer - Professor, Computer Science Department - 406.243.4618 
+    Dr. Johnathan Bardsley - Professor, Mathematics Department - 406.243.5328
