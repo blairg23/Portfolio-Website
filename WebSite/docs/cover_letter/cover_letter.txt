@@ -1,4 +1,5 @@
-# COVER SHEET (best viewed on http://dillinger.io/)
+# COVER SHEET 
+<!-- best viewed on http://dillinger.io/) -->
 ## COMPANY
 
 ### Things I want in a team or project
