@@ -1,0 +1,17 @@
+To whom it may concern,
+
+I am responding to an advertisement you posted regarding needed a "Full Time Data Scientist". I am currently interested in full-time positions and I like what I've read about your company so far. From your website, it seems that you are very interested in helping end human suffering and disease. These are areas I am interested in as well. I have done quite a bit of work in data analysis, mostly just using Python, Pandas, NumPy, and Matplotlib. Lately, I've been working on some side projects that deal with social media data, which are typically in unstructured format (generally JSON, as I work with a lot of APIs). My favorite types of problems involve data manipulation, visualization, and formatting; working with APIs; automation; and back-end web development. 
+
+Here are some professional references and other possibly informative data about who I am (in a slightly more interactive way than a simple PDF).
+
+http://blairgemmer.com/CV.aspx
+
+and my resume (in pdf):
+
+http://blairgemmer.com/docs/resume.pdf
+
+and one of my more interesting side projects that I've been working on recently:
+
+https://dotmos.com
+
+I look forward to hearing a little bit more about your company, atmosphere, and any other important details you might want to add :)

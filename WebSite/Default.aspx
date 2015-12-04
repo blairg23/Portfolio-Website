@@ -65,7 +65,7 @@
     </p>
     <ul>
         <li><a href="http://www.drjoelhenry.com/" target="_blank">Dr. Joel Henry</a>, Committee Chair</li>
-        <li><a href="http://www.cas.umt.edu/casweb/faculty/FacultyDetails.cfm?id=543" target="_blank">Dr. Yolanda Reimer</a></li>
+        <li><a href="http://www.cs.umt.edu/facultyAndStaff/default.php?s=Reimer" target="_blank">Dr. Yolanda Reimer</a></li>
         <li><a href="http://www.math.umt.edu/bardsley/" target="_blank">Dr. Johnathan Bardsley</a></li>
     </ul>
 </asp:Content>
