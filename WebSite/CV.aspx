@@ -30,7 +30,7 @@
     <div class="fat-words">Software Developer</div>
 
     <p class="skinny-title">
-        dotmos, LLC. (2015-Present)
+        DOTMOS, LLC. (2015-Present)
     </p>
     <div class="fat-words">Co-Founder, Project Manager, and Technology Lead</div>
 
