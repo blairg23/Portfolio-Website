@@ -1,4 +1,4 @@
-﻿﻿<%@ Page Title="Curriculum Vitae" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true" CodeFile="CV.aspx.cs" Inherits="Default2" %>
+﻿<%@ Page Title="Curriculum Vitae" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true" CodeFile="CV.aspx.cs" Inherits="Default2" %>
 
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="Server">
@@ -30,7 +30,12 @@
     <div class="fat-words">Software Developer</div>
 
     <p class="skinny-title">
-        LAKE MISSOULA GROUP, LLC. (2015-Present)
+        dotmos, LLC. (2015-Present)
+    </p>
+    <div class="fat-words">Co-Founder, Project Manager, and Technology Lead</div>
+
+    <p class="skinny-title">
+        LAKE MISSOULA GROUP, LLC. (2015)
     </p>
     <div class="fat-words">Security Consultant</div>
 
