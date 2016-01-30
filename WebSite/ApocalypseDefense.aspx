@@ -6,7 +6,7 @@
         <h2>A mobile zombie tower defense game written in Java for the Android 2.3 operating system.</h2>
         <h6><b>Spring 2012:</b>
             <br />
-            CSCI 576 - Human-Computer Interaction - <b><a href="http://www.cas.umt.edu/casweb/faculty/FacultyDetails.cfm?id=543" target="_blank">Dr. Yolanda Reimer</a></b>
+            CSCI 576 - Human-Computer Interaction - <b><a href="http://www.cs.umt.edu/facultyAndStaff/default.php?s=Reimer" target="_blank">Dr. Yolanda Reimer</a></b>
             <br />
             CSCI 591 - Game and Mobile Application Development - <b><a href="http://www.umt.edu/xli/speakers/michaelcassens.aspx" target="_blank">Michael Cassens</a></b>
         </h6>

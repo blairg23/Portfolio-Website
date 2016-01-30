@@ -7,7 +7,7 @@
         <h2>A particle physics simulator written in Python using OpenGL.</h2>
         <h6><b>Fall 2011:</b>
             <br />
-            CSCI 444 - Data Visualization - <b><a href="http://www.cas.umt.edu/casweb/faculty/FacultyDetails.cfm?id=540" target="_blank">Dr. Jesse Johnson</a></b>
+            CSCI 444 - Data Visualization - <b><a href="http://www.cs.umt.edu/facultyAndStaff/default.php?s=Johnson" target="_blank">Dr. Jesse Johnson</a></b>
         </h6>
     </hgroup>
     <br />

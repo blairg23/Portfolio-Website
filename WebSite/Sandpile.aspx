@@ -7,7 +7,7 @@
         <h2>aka Abelian Sandpile Model, written in Python using the Matplotlib module.</h2>
         <h6><b>Spring 2012:</b>
             <br />
-            CSCI 577 - Computer Simulation and Modeling - <b><a href="http://www.cas.umt.edu/casweb/faculty/FacultyDetails.cfm?id=540" target="_blank">Dr. Jesse Johnson</a></b>
+            CSCI 577 - Computer Simulation and Modeling - <b><a href="http://www.cs.umt.edu/facultyAndStaff/default.php?s=Johnson" target="_blank">Dr. Jesse Johnson</a></b>
         </h6>
     </hgroup>
     <br />
