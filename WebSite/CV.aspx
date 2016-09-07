@@ -27,12 +27,17 @@
     <p class="skinny-title">
         FREELANCE (2009-Present)        
     </p>
-    <div class="fat-words">Software Developer</div>
+    <div class="fat-words">Software Engineer</div>
 
     <p class="skinny-title">
         DOTMOS, LLC. (2015-Present)
     </p>
-    <div class="fat-words">Co-Founder, Project Manager, and Technology Lead</div>
+    <div class="fat-words">Co-Founder, CTO</div>
+
+    <p class="skinny-title">
+        UPSTREAM RESEARCH, INC. (2015-2016)
+    </p>
+    <div class="fat-words">Data Scientist, Software Engineer, Quality Assurance, System Administrator, and Customer Support</div>
 
     <p class="skinny-title">
         LAKE MISSOULA GROUP, LLC. (2015)
@@ -111,7 +116,20 @@
         </li>
     </ul>
 
-    <p class="fat-title">Personal References</p>
+    <br />
+
+    <p class="fat-title">Professional References</p>
+
+    <p class="skinny-title">DOTMOS, LLC.</p>
+    <p class="skinny-words">
+        <b>Rod Austin</b> - CEO - 406.396.0673 <br />    
+    </p>
+
+    <p class="skinny-title">UPSTREAM RESEARCH, INC.</p>
+    <p class="skinny-words">
+        <b>Alex Philp, PhD.</b> - Co-Founder and CSO - 406.370.2262 <br />
+        <b>David Bechtold</b> - Senior Software Developer - 406.529.9606
+    </p>
 
     <p class="skinny-title">HANNA-JAMES ENTERPRISES, LLC.</p>
     <p class="skinny-words">
@@ -121,11 +139,11 @@
 
     <p class="skinny-title">UNIVERSITY OF MONTANA</p>
     <p class="skinny-words">
-        <b>Dr. Doug Raiford</b> - Professor, Computer Science Department Chair - 406.243.5605 <br />
-        <b>Dr. Joel Henry</b> - Professor, Master's Defense Committee Chair - 406.243.2218 <br />
-        <b>Dr. Jesse Johnson</b> - Professor, Computer Science Department - 406.243.2356 <br />
-        <b>Dr. Yolanda Reimer</b> - Professor, Computer Science Department - 406.243.4618 <br />
-        <b>Dr. Johnathan Bardsley</b> - Professor, Mathematics Department -  406.243.5328
+        <b>Doug Raiford, PhD.</b> - Professor, Computer Science Department Chair - 406.243.5605 <br />
+        <b>Joel Henry, PhD., JD.</b> - Professor, Master's Defense Committee Chair - 406.243.2218 <br />
+        <b>Jesse Johnson, PhD.</b> - Professor, Computer Science Department - 406.243.2356 <br />
+        <b>Yolanda Reimer, PhD.</b> - Professor, Computer Science Department - 406.243.4618 <br />
+        <b>Johnathan Bardsley, PhD.</b> - Professor, Mathematics Department -  406.243.5328
     </p>
 </asp:Content>
 
